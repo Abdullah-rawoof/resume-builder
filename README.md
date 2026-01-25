@@ -28,13 +28,9 @@ Designed for **students, job seekers, and professionals**.
 ---
 ## 📸 Screenshots
 
-<img src="Resume builder.png" width="800" />
+<img src="Resume builder.png" wwidth=100℅ />
 
-<img src="Resume analyser.png" width="800" />
-
-![Screenshots](./Resume-builder.png)
-
-![Screenshots](./Resume-analyser.png)
+<img src="Resume analyser.png" width= 100℅ />
 
 ---
 
