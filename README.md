@@ -29,6 +29,7 @@ Designed for **students, job seekers, and professionals**.
 ## 📸 Screenshots
 
 ![Screenshots](./Resume builder.png)
+
 ![Screenshots](./Resume analyser.png)
 
 ---
